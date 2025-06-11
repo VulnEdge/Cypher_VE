@@ -51,7 +51,7 @@ CypherX is a powerful, user-friendly command-line tool designed for secure encry
 Make sure you have **Python 3.6+** and **pip** installed.
 
 ### Clone the Repository
-git clone https://github.com/yourusername/CypherX.git
+git clone https://github.com/VulnEdge/Cypher_VE.git
 cd CypherX
 
 ### Install Required Packages
@@ -62,7 +62,7 @@ pip install cryptography
 ## 🛠️ Usage
 
 Run the tool:
-python3 cypherx.py
+python3 CypherX_VE.py
 
 ### Options:
 - Encrypt File: Encrypts any file and saves it with `.enc` extension.
@@ -106,7 +106,7 @@ python3 cypherx.py
 
 **VulnEdge**  
 Security Enthusiasts | Cyber Researchers  
-🔗 Follow us on GitHub: https://github.com/yourusername
+🔗 Follow us on GitHub: https://github.com/VulnEdge
 
 ---
 
